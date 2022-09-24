@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mario Haryzal
+Hi 👋 My name is Mario Haryzal
 =====================================================================================================================================
 
 Web Programmer | Backend Programmer
@@ -8,7 +8,7 @@ Saya sudah belajar membangun dan merancang sebuah website semenjak saya masih ku
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [marioharyzal11@gmail.com](mailto:marioharyzal11@gmail.com)
-* 🧠  I'm learning Node JS, Backend Database MySQL NoSQL, RESTful API and Server like NGINX.
+* 🌱  I'm learning Node JS, Backend Database MySQL NoSQL, RESTful API and Server like NGINX.
 * 🤝  I'm open to collaborating on Building and create Websites.
 * ⚡  I'm open to work.
 
