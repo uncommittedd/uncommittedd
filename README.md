@@ -4,7 +4,7 @@ Hi 👋 My name is Mario Haryzal
 Web Programmer | Backend Programmer
 -----------------------------------
 
-Saya sudah belajar membangun dan merancang sebuah website semenjak saya masih kuliah. Dan saat saya sedang fokus untuk menjadi Backend Developer dengan JavaScript environment.
+I've been learning to build and design a website since I was in college. And now I focus on being a Backend Developer with a JavaScript environment.
 
 * 🌍  I'm based in Indonesia
 * ✉️  You can contact me at [marioharyzal11@gmail.com](mailto:marioharyzal11@gmail.com)
