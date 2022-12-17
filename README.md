@@ -10,7 +10,6 @@ I've been learning to build and design a website since I was in college. And now
 * ✉️  You can contact me at [marioharyzal11@gmail.com](mailto:marioharyzal11@gmail.com)
 * 🌱  Now, I'm learning Node JS, Backend Database MySQL NoSQL, RESTful API and Server like NGINX.
 * 🤝  I'm open to collaborating on Building and create Websites.
-* ⚡  I'm open to work.
 
 ### Skills
 
