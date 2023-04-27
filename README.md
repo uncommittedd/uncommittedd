@@ -1,13 +1,12 @@
 Hi 👋 My name is Mario
 =====================================================================================================================================
 
-Web Programmer | Backend Programmer
+80% Backend 
 -----------------------------------
 
 I've been learning to build and design a website since I was in college. And now I focus on being a Backend Developer with a JavaScript environment.
 
 * 🌍  I'm based in Indonesia
-* ✉️  You can contact me at [marioharyzal11@gmail.com](mailto:marioharyzal11@gmail.com)
 * 🌱  Now, I'm learning Node JS, Backend Database MySQL NoSQL, RESTful API and Server like NGINX.
 * 🤝  I'm open to collaborating on Building and create Websites.
 
@@ -27,7 +26,3 @@ I've been learning to build and design a website since I was in college. And now
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/marioharyzal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mario_haryzal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mario-haryzal-324100232" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
