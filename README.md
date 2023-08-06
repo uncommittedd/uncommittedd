@@ -1,7 +1,7 @@
 Hi 👋 My name is Mario
 =====================================================================================================================================
 
-80% Backend 
+80% Backend and I'm an engineer
 -----------------------------------
 
 I've been learning to build and design a website since I was in college. And now I focus on being a Backend Developer with a JavaScript environment.
